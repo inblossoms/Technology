@@ -2,17 +2,17 @@
 layout: home
 
 features:
-  - title: 基础
-    details: 结合文档抽象基础知识概念
-  - title: Hooks
-    details: 掌握 Hooks 设计思想，自定义 Hooks 实现
-  - title: 源码共读
-    details: 拆解核心源码，构建个人框架知识体系
-  - title: 核心实现
-    details: 基于框架核心机制，进行最小实现
+  - title: 丰富的例子
+    details: 揉合文档，每一个概念都会提供一个例子，轻松学习理解基础知识点
+  - title: 渐进式学习
+    details: i+1 的学习方式，基于基础水平渐进式学习，营造语言就近发展区
+  - title: 架构理念
+    details: 拆解核心源码，构建个人框架知识体系，理解架构设计中权衡的艺术
+  - title: 理论复现
+    details: 通过对核心机制的最小实现，完成从基础到进阶的跨越
 
 hero:
-  name: Inblossmos.me
+  name: Vue & React
   text: Using code to realize my fantasy
   tagline: 揭秘 Vue 和 React 底层内幕
   image:

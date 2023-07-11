@@ -2,6 +2,12 @@ export default {
   title: "Technical Secrets",
   description: "Inside Vue and React implementation",
   base: "/technology/",
+  head: [
+    [
+      "link",
+      { rel: "icon", type: "image/x-icon", href: "/technology/favicon.ico" },
+    ],
+  ],
   themeConfig: {
     logo: "/logo.svg",
     sidebar: [

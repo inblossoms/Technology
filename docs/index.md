@@ -24,5 +24,5 @@ hero:
       link: /guide/00-introduction
     - theme: alt
       text: View on GitHub
-      link: https://inblossoms.github/technology/
+      link: https://github.com/inblossoms/technology
 ---

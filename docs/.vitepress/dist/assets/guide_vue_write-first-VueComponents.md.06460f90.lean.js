@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as r}from"./app.f709853f.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/vue/write-first-VueComponents.md"}'),o={name:"guide/vue/write-first-VueComponents.md"};function s(n,a,i,c,p,d){return t(),r("div")}const _=e(o,[["render",s]]);export{u as __pageData,_ as default};

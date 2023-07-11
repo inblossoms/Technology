@@ -8,4 +8,4 @@ import CVideo from '../components/CVideo.vue'
 
 ## Why？
 
-<CVideo src=""/>
+<!-- <CVideo src=""/> -->

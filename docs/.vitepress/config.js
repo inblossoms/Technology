@@ -47,10 +47,10 @@ export default {
         ],
       },
     ],
-  },
-  algolia: {
-    appId: "QPXJ9MWP32",
-    apiKey: "a4e7e962f2bf9e09453004761a0d7438",
-    indexName: "technology",
+    algolia: {
+      appId: "QPXJ9MWP32",
+      apiKey: "a4e7e962f2bf9e09453004761a0d7438",
+      indexName: "technology",
+    },
   },
 };

@@ -1,7 +1,7 @@
 export default {
   title: "Technical Secrets",
   description: "Inside Vue and React implementation",
-
+  base: "/technology/",
   themeConfig: {
     logo: "/logo.svg",
     sidebar: [

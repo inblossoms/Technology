@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r}from"./app.3fe5c3e3.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/react/write-first-ReactComponents.md"}'),a={name:"guide/react/write-first-ReactComponents.md"};function o(s,n,c,i,p,d){return t(),r("div")}const f=e(a,[["render",o]]);export{_ as __pageData,f as default};

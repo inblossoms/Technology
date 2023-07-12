@@ -12,9 +12,9 @@ features:
     details: 通过对核心机制的最小实现，完成从基础到进阶的跨越
 
 hero:
-  name: Vue & React
+  name: Inblossoms.me
   text: Using code to realize my fantasy
-  tagline: 揭秘 Vue 和 React 底层内幕
+  tagline: 揭秘前端知识体系底层内幕
   image:
     src: /bookcase.png
     alt: Technical Secrets logo

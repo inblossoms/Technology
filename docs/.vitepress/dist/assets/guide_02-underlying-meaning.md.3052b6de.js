@@ -1,1 +1,0 @@
-import{_ as e,o as n,c as t}from"./app.66b4554f.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/02-underlying-meaning.md"}'),a={name:"guide/02-underlying-meaning.md"};function r(i,o,s,c,d,_){return n(),t("div")}const g=e(a,[["render",r]]);export{m as __pageData,g as default};
